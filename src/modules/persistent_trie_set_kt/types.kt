@@ -1,0 +1,5 @@
+# Core types and configuration for Functional Persistent Hash Array Mapped Trie Set
+# Module: persistent_trie_set_kt
+
+ALIGNMENT = 64
+DEFAULT_SZ = 8192
